@@ -1,2 +1,2 @@
-# DCCH
-The code for DCCH.
+# RCHDC
+The code for RCHDC.
