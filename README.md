@@ -1,6 +1,6 @@
 # RCHDC
 
-RCHDC is a project for training models, including dataset preprocessing, noisy dataset generation, and model training.
+The code for RCHCH.
 
 ## Usage
 
